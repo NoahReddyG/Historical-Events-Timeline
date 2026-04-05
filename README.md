@@ -1,2 +1,2 @@
-# Historical-Events-Timeline
-An interactive Indian history timeline web app — explore 5000+ years of events with era filters, full-text search, and detailed modals. Built with pure HTML, CSS &amp; JavaScript.
+☸ Bharat Chronicles — An interactive timeline of India's history from the Indus Valley Civilization (3300 BCE) to modern-day achievements. Features chronological event cards, era-based filtering, full-text search, and a curated external resources section. Built with vanilla HTML5, CSS3, and JavaScript — no frameworks. IARE Web Systems Engineering project.
+
